@@ -1,0 +1,4 @@
+test/*
+!test/sub_test
+test/sub_test/*
+!test/sub_test/test.php
